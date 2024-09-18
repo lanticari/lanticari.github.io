@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://lanticari.github.io/sitemap.html.gz
+Sitemap: https://lanticari.github.io/app/sitemap.html.gz
+Sitemap: https://lanticari.github.io/assets/sitemap.html.gz
+Sitemap: https://lanticari.github.io/css/sitemap.html.gz
+Sitemap: https://lanticari.github.io/includes/sitemap.html.gz
+Sitemap: https://lanticari.github.io/item/sitemap.html.gz
+Sitemap: https://lanticari.github.io/src/sitemap.html.gz
